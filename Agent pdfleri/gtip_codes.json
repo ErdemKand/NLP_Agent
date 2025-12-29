@@ -1,0 +1,2019 @@
+{
+  "metadata": {
+    "title": "GTİP Referans Veritabanı",
+    "description": "Gümrük Tarife İstatistik Pozisyonu - 200 Popüler Ürün",
+    "total_products": 200,
+    "tax_type": "Standart oranlar (genel ithalat)",
+    "version": "1.0",
+    "categories": 10,
+    "created_for": "Customs & Foreign Trade ReAct Agent Project",
+    "notes": [
+      "GTİP kodları Gümrük Yönetmeliği'ne göre düzenlenmiştir",
+      "Vergi oranları standart genel ithalat için geçerlidir",
+      "Multi-hop query test senaryoları için optimize edilmiştir",
+      "KDV oranları: %1 (temel gıda), %10 (kitap, bazı gıda), %20 (genel)"
+    ]
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop (Dizüstü Bilgisayar)",
+      "gtip": "8471.30.00",
+      "gtip_description": "Taşınabilir otomatik veri işleme makinesi, ağırlığı 10 kg'dan az",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "Dizüstü bilgisayarlar"
+    },
+    {
+      "id": 2,
+      "name": "Akıllı Telefon",
+      "gtip": "8517.12.00",
+      "gtip_description": "Cep telefonu ve diğer hücresel ağlar için kablosuz telefonlar",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "Smartphone, iPhone, Android telefonlar"
+    },
+    {
+      "id": 3,
+      "name": "Tablet Bilgisayar",
+      "gtip": "8471.30.00",
+      "gtip_description": "Taşınabilir otomatik veri işleme makinesi",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "iPad, Android tabletler"
+    },
+    {
+      "id": 4,
+      "name": "LED Televizyon",
+      "gtip": "8528.72.00",
+      "gtip_description": "Renkli alıcı cihazlar (düz ekranlı)",
+      "category": "Elektronik",
+      "customs_duty": 4.9,
+      "vat": 20,
+      "notes": "Smart TV, 4K TV"
+    },
+    {
+      "id": 5,
+      "name": "Bluetooth Kulaklık",
+      "gtip": "8518.30.00",
+      "gtip_description": "Mikrofonlu kulaklıklar",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "Kablosuz kulaklıklar, AirPods"
+    },
+    {
+      "id": 6,
+      "name": "Dijital Fotoğraf Makinesi",
+      "gtip": "8525.80.00",
+      "gtip_description": "Dijital kameralar",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "DSLR, mirrorless kameralar"
+    },
+    {
+      "id": 7,
+      "name": "Drone (Kameralı)",
+      "gtip": "8806.92.00",
+      "gtip_description": "İnsansız hava araçları",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "Kameralı drone, quadcopter"
+    },
+    {
+      "id": 8,
+      "name": "Oyun Konsolu (PlayStation/Xbox)",
+      "gtip": "9504.50.00",
+      "gtip_description": "Video oyun konsolları",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "PS5, Xbox Series X"
+    },
+    {
+      "id": 9,
+      "name": "Bilgisayar Monitörü",
+      "gtip": "8528.52.00",
+      "gtip_description": "Otomatik veri işleme makineleri için görüntüleme üniteleri",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "LED monitör, gaming monitör"
+    },
+    {
+      "id": 10,
+      "name": "Powerbank (Taşınabilir Şarj)",
+      "gtip": "8507.60.00",
+      "gtip_description": "Lityum iyon akümülatörler",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "20000mAh powerbank"
+    },
+    {
+      "id": 11,
+      "name": "Akıllı Saat (Smartwatch)",
+      "gtip": "9102.11.00",
+      "gtip_description": "Kol saatleri (elektronik)",
+      "category": "Elektronik",
+      "customs_duty": 8,
+      "vat": 20,
+      "notes": "Apple Watch, Samsung Galaxy Watch"
+    },
+    {
+      "id": 12,
+      "name": "Bluetooth Hoparlör",
+      "gtip": "8518.21.00",
+      "gtip_description": "Tek hoparlör ve muhafazası",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "Taşınabilir kablosuz hoparlör"
+    },
+    {
+      "id": 13,
+      "name": "USB Bellek (Flash Drive)",
+      "gtip": "8523.51.00",
+      "gtip_description": "Yarı iletkenli kayıt ortamları",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "16GB, 32GB, 64GB USB"
+    },
+    {
+      "id": 14,
+      "name": "SSD Harddisk",
+      "gtip": "8471.70.00",
+      "gtip_description": "Saklama üniteleri",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "256GB, 512GB, 1TB SSD"
+    },
+    {
+      "id": 15,
+      "name": "Wifi Router",
+      "gtip": "8517.62.00",
+      "gtip_description": "Veri iletim veya alım için makineler",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "Kablosuz modem"
+    },
+    {
+      "id": 16,
+      "name": "Webcam",
+      "gtip": "8525.80.00",
+      "gtip_description": "Dijital kameralar",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "HD webcam, 1080p"
+    },
+    {
+      "id": 17,
+      "name": "Klavye (Mekanik)",
+      "gtip": "8471.60.00",
+      "gtip_description": "Giriş veya çıkış üniteleri",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "Gaming klavye, RGB"
+    },
+    {
+      "id": 18,
+      "name": "Mouse (Oyuncu)",
+      "gtip": "8471.60.00",
+      "gtip_description": "Giriş veya çıkış üniteleri",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "Gaming mouse, kablosuz"
+    },
+    {
+      "id": 19,
+      "name": "E-Kitap Okuyucu (E-Reader)",
+      "gtip": "8471.30.00",
+      "gtip_description": "Taşınabilir otomatik veri işleme makinesi",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "Kindle, e-ink ekran"
+    },
+    {
+      "id": 20,
+      "name": "Projeksiyon Cihazı (Projektör)",
+      "gtip": "8528.69.00",
+      "gtip_description": "Projeksiyon cihazları",
+      "category": "Elektronik",
+      "customs_duty": 4.9,
+      "vat": 20,
+      "notes": "Full HD, 4K projektör"
+    },
+    {
+      "id": 21,
+      "name": "VR Gözlüğü (Sanal Gerçeklik)",
+      "gtip": "9004.90.00",
+      "gtip_description": "Diğer gözlükler",
+      "category": "Elektronik",
+      "customs_duty": 2.5,
+      "vat": 20,
+      "notes": "Meta Quest, VR headset"
+    },
+    {
+      "id": 22,
+      "name": "Aksiyon Kamerası (Action Cam)",
+      "gtip": "8525.80.00",
+      "gtip_description": "Dijital kameralar",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "GoPro, su geçirmez kamera"
+    },
+    {
+      "id": 23,
+      "name": "Grafik Tablet (Çizim Tableti)",
+      "gtip": "8471.60.00",
+      "gtip_description": "Giriş üniteleri",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "Wacom, dijital çizim tableti"
+    },
+    {
+      "id": 24,
+      "name": "3D Yazıcı",
+      "gtip": "8477.59.00",
+      "gtip_description": "Diğer işleme makineleri",
+      "category": "Elektronik",
+      "customs_duty": 1.7,
+      "vat": 20,
+      "notes": "FDM, resin 3D printer"
+    },
+    {
+      "id": 25,
+      "name": "Elektrikli Diş Fırçası",
+      "gtip": "8509.80.00",
+      "gtip_description": "Elektro-mekanik ev aletleri",
+      "category": "Elektronik",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Şarjlı diş fırçası"
+    },
+    {
+      "id": 26,
+      "name": "Robot Süpürge",
+      "gtip": "8508.60.00",
+      "gtip_description": "Diğer elektrikli süpürgeler",
+      "category": "Elektronik",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Otomatik temizlik robotu"
+    },
+    {
+      "id": 27,
+      "name": "Hava Fritözü (Air Fryer)",
+      "gtip": "8516.60.00",
+      "gtip_description": "Diğer fırınlar, ocaklar",
+      "category": "Elektronik",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Yağsız fritöz"
+    },
+    {
+      "id": 28,
+      "name": "Elektrikli Scooter",
+      "gtip": "8711.60.00",
+      "gtip_description": "Elektrikli motorlu bisikletler",
+      "category": "Elektronik",
+      "customs_duty": 8,
+      "vat": 20,
+      "notes": "E-scooter, elektrikli kickboard"
+    },
+    {
+      "id": 29,
+      "name": "Ring Light (Halka Işık)",
+      "gtip": "9405.40.00",
+      "gtip_description": "Elektrikli lamba ve aydınlatma gereçleri",
+      "category": "Elektronik",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Youtuber ışığı, fotoğraf ışığı"
+    },
+    {
+      "id": 30,
+      "name": "Mikrodalga Fırın",
+      "gtip": "8516.50.00",
+      "gtip_description": "Mikrodalga fırınlar",
+      "category": "Elektronik",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "800W, 1000W mikrodalga"
+    },
+    {
+      "id": 31,
+      "name": "Kahve Makinesi (Espresso)",
+      "gtip": "8516.71.00",
+      "gtip_description": "Kahve veya çay yapma makineleri",
+      "category": "Elektronik",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Otomatik kahve makinesi"
+    },
+    {
+      "id": 32,
+      "name": "Blender (Karıştırıcı)",
+      "gtip": "8509.40.00",
+      "gtip_description": "Gıda öğütücüleri ve karıştırıcılar",
+      "category": "Elektronik",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Smoothie blender"
+    },
+    {
+      "id": 33,
+      "name": "Elektrikli Süpürge",
+      "gtip": "8508.11.00",
+      "gtip_description": "Elektrikli motor ile çalışan süpürgeler (1500W'a kadar)",
+      "category": "Elektronik",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Kablolu süpürge"
+    },
+    {
+      "id": 34,
+      "name": "Saç Kurutma Makinesi",
+      "gtip": "8516.31.00",
+      "gtip_description": "Saç kurutma makineleri",
+      "category": "Elektronik",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Fön makinesi, 2000W"
+    },
+    {
+      "id": 35,
+      "name": "Elektrikli Tıraş Makinesi",
+      "gtip": "8510.10.00",
+      "gtip_description": "Elektrikli tıraş makineleri",
+      "category": "Elektronik",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Şarjlı tıraş makinesi"
+    },
+    {
+      "id": 36,
+      "name": "Ütü (Buharlı)",
+      "gtip": "8516.40.00",
+      "gtip_description": "Elektrikli ütüler",
+      "category": "Elektronik",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Buhar kazanlı ütü"
+    },
+    {
+      "id": 37,
+      "name": "Elektrikli Isıtıcı (Radyatör)",
+      "gtip": "8516.29.00",
+      "gtip_description": "Elektrikli ısıtma tertibatı",
+      "category": "Elektronik",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Petek, yağlı radyatör"
+    },
+    {
+      "id": 38,
+      "name": "Vantilatör (Elektrikli)",
+      "gtip": "8414.51.00",
+      "gtip_description": "Masa, yer, duvar tipi vantilatörler",
+      "category": "Elektronik",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Pervane, 50cm"
+    },
+    {
+      "id": 39,
+      "name": "Klima (Split)",
+      "gtip": "8415.10.00",
+      "gtip_description": "Duvar veya pencere tipi klima",
+      "category": "Elektronik",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "12000 BTU klima"
+    },
+    {
+      "id": 40,
+      "name": "Buzdolabı",
+      "gtip": "8418.10.00",
+      "gtip_description": "Kombine soğutucu-dondurucu",
+      "category": "Elektronik",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "No-Frost buzdolabı, 500L"
+    },
+    {
+      "id": 41,
+      "name": "Erkek Tişört (Pamuklu)",
+      "gtip": "6109.10.00",
+      "gtip_description": "Pamuktan tişörtler",
+      "category": "Giyim",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "Kısa kollu, casual"
+    },
+    {
+      "id": 42,
+      "name": "Kot Pantolon (Jeans)",
+      "gtip": "6203.42.00",
+      "gtip_description": "Pamuktan pantolonlar",
+      "category": "Giyim",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "Denim, mavi kot"
+    },
+    {
+      "id": 43,
+      "name": "Deri Ceket",
+      "gtip": "4203.10.00",
+      "gtip_description": "Deriden giyim eşyası",
+      "category": "Giyim",
+      "customs_duty": 4,
+      "vat": 20,
+      "notes": "Hakiki deri, erkek/kadın"
+    },
+    {
+      "id": 44,
+      "name": "Spor Ayakkabı (Sneaker)",
+      "gtip": "6404.11.00",
+      "gtip_description": "Spor ayakkabılar",
+      "category": "Giyim",
+      "customs_duty": 8,
+      "vat": 20,
+      "notes": "Koşu ayakkabısı, Nike, Adidas"
+    },
+    {
+      "id": 45,
+      "name": "Bot (Kışlık)",
+      "gtip": "6403.91.00",
+      "gtip_description": "Deri botlar",
+      "category": "Giyim",
+      "customs_duty": 8,
+      "vat": 20,
+      "notes": "Kış botu, bilek boyu"
+    },
+    {
+      "id": 46,
+      "name": "Kadın Elbise",
+      "gtip": "6204.41.00",
+      "gtip_description": "Yün veya ince hayvan kılından elbiseler",
+      "category": "Giyim",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "Kokteyl elbise, abiye"
+    },
+    {
+      "id": 47,
+      "name": "Mont (Kışlık)",
+      "gtip": "6201.13.00",
+      "gtip_description": "Sentetik iplikten paltolar",
+      "category": "Giyim",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "Şişme mont, kaz tüyü"
+    },
+    {
+      "id": 48,
+      "name": "Kemer (Deri)",
+      "gtip": "4203.30.00",
+      "gtip_description": "Deriden kemerler",
+      "category": "Giyim",
+      "customs_duty": 4,
+      "vat": 20,
+      "notes": "Erkek/kadın kemer"
+    },
+    {
+      "id": 49,
+      "name": "Çanta (El Çantası)",
+      "gtip": "4202.21.00",
+      "gtip_description": "Deriden el çantaları",
+      "category": "Giyim",
+      "customs_duty": 4,
+      "vat": 20,
+      "notes": "Kadın çantası, deri"
+    },
+    {
+      "id": 50,
+      "name": "Sırt Çantası (Okul)",
+      "gtip": "4202.92.00",
+      "gtip_description": "Plastik veya tekstilden sırt çantası",
+      "category": "Giyim",
+      "customs_duty": 4,
+      "vat": 20,
+      "notes": "Laptop bölmeli, okul çantası"
+    },
+    {
+      "id": 51,
+      "name": "Sweatshirt (Kapşonlu)",
+      "gtip": "6110.20.00",
+      "gtip_description": "Pamuktan kazaklar",
+      "category": "Giyim",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "Hoodie, kapüşonlu"
+    },
+    {
+      "id": 52,
+      "name": "Şort (Yaz)",
+      "gtip": "6203.43.00",
+      "gtip_description": "Sentetik iplikten şortlar",
+      "category": "Giyim",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "Spor şort, diz üstü"
+    },
+    {
+      "id": 53,
+      "name": "Bikini (Kadın Mayo)",
+      "gtip": "6112.41.00",
+      "gtip_description": "Sentetik iplikten mayolar",
+      "category": "Giyim",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "İki parça mayo"
+    },
+    {
+      "id": 54,
+      "name": "Takım Elbise (Erkek)",
+      "gtip": "6203.11.00",
+      "gtip_description": "Yün veya ince hayvan kılından takımlar",
+      "category": "Giyim",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "İş takımı, ceket + pantolon"
+    },
+    {
+      "id": 55,
+      "name": "Kravat (İpek)",
+      "gtip": "6215.10.00",
+      "gtip_description": "İpekten kravatlar",
+      "category": "Giyim",
+      "customs_duty": 8,
+      "vat": 20,
+      "notes": "Klasik kravat"
+    },
+    {
+      "id": 56,
+      "name": "Çorap (Pamuklu)",
+      "gtip": "6115.10.00",
+      "gtip_description": "Sentetik iplikten çoraplar",
+      "category": "Giyim",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "Günlük çorap, 5'li paket"
+    },
+    {
+      "id": 57,
+      "name": "Şapka (Beyzbol)",
+      "gtip": "6505.00.00",
+      "gtip_description": "Şapkalar",
+      "category": "Giyim",
+      "customs_duty": 5.1,
+      "vat": 20,
+      "notes": "Cap, snapback"
+    },
+    {
+      "id": 58,
+      "name": "Eldiven (Kışlık)",
+      "gtip": "6116.93.00",
+      "gtip_description": "Sentetik iplikten eldivenler",
+      "category": "Giyim",
+      "customs_duty": 8,
+      "vat": 20,
+      "notes": "Termal eldiven"
+    },
+    {
+      "id": 59,
+      "name": "Atkı (Yünlü)",
+      "gtip": "6214.10.00",
+      "gtip_description": "İpekten şal ve eşarplar",
+      "category": "Giyim",
+      "customs_duty": 8,
+      "vat": 20,
+      "notes": "Kışlık atkı, 2m"
+    },
+    {
+      "id": 60,
+      "name": "Pijama Takımı",
+      "gtip": "6208.91.00",
+      "gtip_description": "Pamuktan pijamalar",
+      "category": "Giyim",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "Kadın/erkek pijama"
+    },
+    {
+      "id": 61,
+      "name": "İç Çamaşırı (Boxer)",
+      "gtip": "6107.11.00",
+      "gtip_description": "Pamuktan iç çamaşırı",
+      "category": "Giyim",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "Erkek boxer, 3'lü paket"
+    },
+    {
+      "id": 62,
+      "name": "Yağmurluk",
+      "gtip": "6201.93.00",
+      "gtip_description": "Diğer maddelerden yağmurluklar",
+      "category": "Giyim",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "Su geçirmez, kapüşonlu"
+    },
+    {
+      "id": 63,
+      "name": "Terlik (Ev Terliği)",
+      "gtip": "6404.19.00",
+      "gtip_description": "Diğer ayakkabılar",
+      "category": "Giyim",
+      "customs_duty": 8,
+      "vat": 20,
+      "notes": "Pamuk terlik, kapalı"
+    },
+    {
+      "id": 64,
+      "name": "Sandalet (Yaz)",
+      "gtip": "6402.99.00",
+      "gtip_description": "Plastikten sandaletler",
+      "category": "Giyim",
+      "customs_duty": 8,
+      "vat": 20,
+      "notes": "Plaj sandaleti"
+    },
+    {
+      "id": 65,
+      "name": "Klasik Ayakkabı (Deri)",
+      "gtip": "6403.51.00",
+      "gtip_description": "Doğal deriden ayakkabılar",
+      "category": "Giyim",
+      "customs_duty": 8,
+      "vat": 20,
+      "notes": "Erkek klasik ayakkabı"
+    },
+    {
+      "id": 66,
+      "name": "Topuklu Ayakkabı (Stiletto)",
+      "gtip": "6403.59.00",
+      "gtip_description": "Deriden ayakkabılar",
+      "category": "Giyim",
+      "customs_duty": 8,
+      "vat": 20,
+      "notes": "Kadın topuklu, 10cm"
+    },
+    {
+      "id": 67,
+      "name": "Yelek (Balıkçı Yeleği)",
+      "gtip": "6210.40.00",
+      "gtip_description": "Plastik maddelerden kaplı giysiler",
+      "category": "Giyim",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "Outdoor yelek, cepli"
+    },
+    {
+      "id": 68,
+      "name": "Gömlek (Erkek, Uzun Kollu)",
+      "gtip": "6205.20.00",
+      "gtip_description": "Pamuktan gömlekler",
+      "category": "Giyim",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "İş gömlegi, klasik"
+    },
+    {
+      "id": 69,
+      "name": "Bluz (Kadın)",
+      "gtip": "6206.30.00",
+      "gtip_description": "Pamuktan bluzlar",
+      "category": "Giyim",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "Şifon bluz, desenli"
+    },
+    {
+      "id": 70,
+      "name": "Etek (Mini)",
+      "gtip": "6204.52.00",
+      "gtip_description": "Pamuktan etekler",
+      "category": "Giyim",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "Kadın etek, diz üstü"
+    },
+    {
+      "id": 71,
+      "name": "Elma (Taze)",
+      "gtip": "0808.10.00",
+      "gtip_description": "Taze elmalar",
+      "category": "Gıda",
+      "customs_duty": 43.2,
+      "vat": 1,
+      "notes": "Golden, Granny Smith"
+    },
+    {
+      "id": 72,
+      "name": "Çikolata (Sütlü)",
+      "gtip": "1806.31.00",
+      "gtip_description": "Kakao ihtiva eden içi doldurulmuş ürünler",
+      "category": "Gıda",
+      "customs_duty": 60.8,
+      "vat": 10,
+      "notes": "Tablet çikolata, 100g"
+    },
+    {
+      "id": 73,
+      "name": "Kahve (Kavrulmuş)",
+      "gtip": "0901.21.00",
+      "gtip_description": "Kavrulmuş kahve (kafeinsiz değil)",
+      "category": "Gıda",
+      "customs_duty": 145.7,
+      "vat": 10,
+      "notes": "Çekirdek kahve, 1kg"
+    },
+    {
+      "id": 74,
+      "name": "Çay (Siyah)",
+      "gtip": "0902.30.00",
+      "gtip_description": "Siyah çay (fermente edilmiş)",
+      "category": "Gıda",
+      "customs_duty": 145.7,
+      "vat": 10,
+      "notes": "Rize çayı, 1kg"
+    },
+    {
+      "id": 75,
+      "name": "Peynir (Kaşar)",
+      "gtip": "0406.90.00",
+      "gtip_description": "Diğer peynirler",
+      "category": "Gıda",
+      "customs_duty": 130.8,
+      "vat": 10,
+      "notes": "Koyun peyniri, 1kg"
+    },
+    {
+      "id": 76,
+      "name": "Zeytinyağı (Sızma)",
+      "gtip": "1509.10.00",
+      "gtip_description": "Natürel sızma zeytinyağı",
+      "category": "Gıda",
+      "customs_duty": 70,
+      "vat": 10,
+      "notes": "Extra virgin, 1L"
+    },
+    {
+      "id": 77,
+      "name": "Bal (Süzme)",
+      "gtip": "0409.00.00",
+      "gtip_description": "Tabii bal",
+      "category": "Gıda",
+      "customs_duty": 145.7,
+      "vat": 1,
+      "notes": "Çiçek balı, 1kg"
+    },
+    {
+      "id": 78,
+      "name": "Fındık (İç)",
+      "gtip": "0802.22.00",
+      "gtip_description": "Kabuklu fındık",
+      "category": "Gıda",
+      "customs_duty": 22.4,
+      "vat": 10,
+      "notes": "Giresun fındığı, 500g"
+    },
+    {
+      "id": 79,
+      "name": "Bakliyat (Kuru Fasulye)",
+      "gtip": "0713.33.00",
+      "gtip_description": "Kuru fasulye",
+      "category": "Gıda",
+      "customs_duty": 145.7,
+      "vat": 1,
+      "notes": "Dermason, 1kg"
+    },
+    {
+      "id": 80,
+      "name": "Makarna (Spagetti)",
+      "gtip": "1902.19.00",
+      "gtip_description": "Makarna (pişmemiş)",
+      "category": "Gıda",
+      "customs_duty": 145.7,
+      "vat": 10,
+      "notes": "500g, İtalyan makarna"
+    },
+    {
+      "id": 81,
+      "name": "Pirinç (Baldo)",
+      "gtip": "1006.30.00",
+      "gtip_description": "Yarı öğütülmüş veya tam öğütülmüş pirinç",
+      "category": "Gıda",
+      "customs_duty": 145.7,
+      "vat": 1,
+      "notes": "Osmancık pirinç, 1kg"
+    },
+    {
+      "id": 82,
+      "name": "Un (Buğday)",
+      "gtip": "1101.00.00",
+      "gtip_description": "Buğday veya meşalin unu",
+      "category": "Gıda",
+      "customs_duty": 145.7,
+      "vat": 1,
+      "notes": "Beyaz un, 1kg"
+    },
+    {
+      "id": 83,
+      "name": "Şeker (Kristal)",
+      "gtip": "1701.99.00",
+      "gtip_description": "Diğer şekerler",
+      "category": "Gıda",
+      "customs_duty": 145.7,
+      "vat": 10,
+      "notes": "Toz şeker, 1kg"
+    },
+    {
+      "id": 84,
+      "name": "Tuz (Sofra Tuzu)",
+      "gtip": "2501.00.00",
+      "gtip_description": "Sofra tuzu ve saf sodyum klorür",
+      "category": "Gıda",
+      "customs_duty": 0,
+      "vat": 10,
+      "notes": "İyotlu tuz, 1kg"
+    },
+    {
+      "id": 85,
+      "name": "Domates Salçası",
+      "gtip": "2002.90.00",
+      "gtip_description": "Domates konservesi",
+      "category": "Gıda",
+      "customs_duty": 145.7,
+      "vat": 10,
+      "notes": "Konserve salça, 830g"
+    },
+    {
+      "id": 86,
+      "name": "Zeytin (Siyah)",
+      "gtip": "2005.70.00",
+      "gtip_description": "Salamura zeytinler",
+      "category": "Gıda",
+      "customs_duty": 145.7,
+      "vat": 10,
+      "notes": "Gemlik zeytini, 1kg"
+    },
+    {
+      "id": 87,
+      "name": "Reçel (Kayısı)",
+      "gtip": "2007.99.00",
+      "gtip_description": "Diğer marmelatlar ve reçeller",
+      "category": "Gıda",
+      "customs_duty": 145.7,
+      "vat": 10,
+      "notes": "Ev yapımı reçel, 400g"
+    },
+    {
+      "id": 88,
+      "name": "Bisküvi (Çikolatalı)",
+      "gtip": "1905.31.00",
+      "gtip_description": "Tatlandırılmış bisküviler",
+      "category": "Gıda",
+      "customs_duty": 60.8,
+      "vat": 10,
+      "notes": "Kurabiye, 200g paket"
+    },
+    {
+      "id": 89,
+      "name": "Cips (Patates)",
+      "gtip": "2004.10.00",
+      "gtip_description": "Patates konservesi",
+      "category": "Gıda",
+      "customs_duty": 145.7,
+      "vat": 10,
+      "notes": "Kızartılmış cips, 150g"
+    },
+    {
+      "id": 90,
+      "name": "Gazoz (Kola)",
+      "gtip": "2202.10.00",
+      "gtip_description": "Gazlı içecekler",
+      "category": "Gıda",
+      "customs_duty": 30,
+      "vat": 10,
+      "notes": "Coca-Cola, 330ml kutu"
+    },
+    {
+      "id": 91,
+      "name": "Meyve Suyu (Portakal)",
+      "gtip": "2009.11.00",
+      "gtip_description": "Portakal suyu (dondurulmamış)",
+      "category": "Gıda",
+      "customs_duty": 145.7,
+      "vat": 10,
+      "notes": "100% meyve suyu, 1L"
+    },
+    {
+      "id": 92,
+      "name": "Süt (Uzun Ömürlü)",
+      "gtip": "0401.10.00",
+      "gtip_description": "Yağ içeriği %1'den az süt",
+      "category": "Gıda",
+      "customs_duty": 145.7,
+      "vat": 1,
+      "notes": "UHT süt, 1L"
+    },
+    {
+      "id": 93,
+      "name": "Yoğurt (Süzme)",
+      "gtip": "0403.10.00",
+      "gtip_description": "Yoğurt",
+      "category": "Gıda",
+      "customs_duty": 130.8,
+      "vat": 1,
+      "notes": "Katkısız yoğurt, 500g"
+    },
+    {
+      "id": 94,
+      "name": "Tereyağı",
+      "gtip": "0405.10.00",
+      "gtip_description": "Tereyağı",
+      "category": "Gıda",
+      "customs_duty": 130.8,
+      "vat": 10,
+      "notes": "Köy tereyağı, 500g"
+    },
+    {
+      "id": 95,
+      "name": "Yumurta (Tavuk)",
+      "gtip": "0407.11.00",
+      "gtip_description": "Döllenmemiş yumurtalar",
+      "category": "Gıda",
+      "customs_duty": 33.4,
+      "vat": 1,
+      "notes": "10'lu paket yumurta"
+    },
+    {
+      "id": 96,
+      "name": "Et (Dana)",
+      "gtip": "0201.30.00",
+      "gtip_description": "Taze veya soğutulmuş sığır eti",
+      "category": "Gıda",
+      "customs_duty": 145.7,
+      "vat": 1,
+      "notes": "Kuşbaşı et, 1kg"
+    },
+    {
+      "id": 97,
+      "name": "Tavuk (Bütün)",
+      "gtip": "0207.12.00",
+      "gtip_description": "Dondurulmamış tavuk",
+      "category": "Gıda",
+      "customs_duty": 145.7,
+      "vat": 1,
+      "notes": "Taze tavuk, 1.5kg"
+    },
+    {
+      "id": 98,
+      "name": "Balık (Somon)",
+      "gtip": "0302.14.00",
+      "gtip_description": "Taze veya soğutulmuş somon",
+      "category": "Gıda",
+      "customs_duty": 25,
+      "vat": 10,
+      "notes": "Atlantik somonu, 1kg"
+    },
+    {
+      "id": 99,
+      "name": "Dondurma (Vanilya)",
+      "gtip": "2105.00.00",
+      "gtip_description": "Dondurma ve benzeri yenilen buzlar",
+      "category": "Gıda",
+      "customs_duty": 60.8,
+      "vat": 10,
+      "notes": "500ml kova dondurma"
+    },
+    {
+      "id": 100,
+      "name": "Baharatlar (Kırmızı Biber)",
+      "gtip": "0904.21.00",
+      "gtip_description": "Kurutulmuş kırmızı biber",
+      "category": "Gıda",
+      "customs_duty": 145.7,
+      "vat": 10,
+      "notes": "Toz biber, 100g"
+    },
+    {
+      "id": 101,
+      "name": "Parfüm (Erkek)",
+      "gtip": "3303.00.00",
+      "gtip_description": "Parfümler ve kolonya suları",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "EDT, 100ml"
+    },
+    {
+      "id": 102,
+      "name": "Nemlendirici Krem",
+      "gtip": "3304.99.00",
+      "gtip_description": "Diğer güzellik ve makyaj müstahzarları",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "Yüz kremi, anti-aging"
+    },
+    {
+      "id": 103,
+      "name": "Vücut Losyonu",
+      "gtip": "3304.99.00",
+      "gtip_description": "Cilt bakım ürünleri",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "Nem verici losyon, 400ml"
+    },
+    {
+      "id": 104,
+      "name": "Şampuan (Onarıcı)",
+      "gtip": "3305.10.00",
+      "gtip_description": "Saç şampuanları",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "Keratin şampuan, 500ml"
+    },
+    {
+      "id": 105,
+      "name": "Makyaj (Fondöten)",
+      "gtip": "3304.10.00",
+      "gtip_description": "Dudak makyaj müstahzarları",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "Foundation, mat, 30ml"
+    },
+    {
+      "id": 106,
+      "name": "Ruj (Mat)",
+      "gtip": "3304.10.00",
+      "gtip_description": "Dudak makyaj müstahzarları",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "Liquid lipstick, kırmızı"
+    },
+    {
+      "id": 107,
+      "name": "Maskara",
+      "gtip": "3304.20.00",
+      "gtip_description": "Göz makyaj müstahzarları",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "Waterproof maskara"
+    },
+    {
+      "id": 108,
+      "name": "Far Paleti",
+      "gtip": "3304.20.00",
+      "gtip_description": "Göz makyaj müstahzarları",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "12 renk palet"
+    },
+    {
+      "id": 109,
+      "name": "Tırnak Cilası",
+      "gtip": "3304.30.00",
+      "gtip_description": "Tırnak manikür müstahzarları",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "Oje, kırmızı, 10ml"
+    },
+    {
+      "id": 110,
+      "name": "Saç Jölesi",
+      "gtip": "3305.90.00",
+      "gtip_description": "Diğer saç müstahzarları",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "Şekillendirici jöle, 150ml"
+    },
+    {
+      "id": 111,
+      "name": "Deodorant (Sprey)",
+      "gtip": "3307.20.00",
+      "gtip_description": "Kişisel deodorantlar",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "Erkek deodorant, 150ml"
+    },
+    {
+      "id": 112,
+      "name": "Diş Macunu",
+      "gtip": "3306.10.00",
+      "gtip_description": "Diş macunları",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "Beyazlatıcı, 100ml"
+    },
+    {
+      "id": 113,
+      "name": "Ağız Gargarası",
+      "gtip": "3306.90.00",
+      "gtip_description": "Diğer ağız veya diş hijyen müstahzarları",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "Antiseptik gargara, 500ml"
+    },
+    {
+      "id": 114,
+      "name": "Yüz Maskesi (Nemlendirici)",
+      "gtip": "3304.99.00",
+      "gtip_description": "Güzellik maskeleri",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "Sheet mask, tek kullanımlık"
+    },
+    {
+      "id": 115,
+      "name": "Güneş Kremi (SPF50+)",
+      "gtip": "3304.99.00",
+      "gtip_description": "Güneş koruyucu müstahzarlar",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "Su geçirmez, 100ml"
+    },
+    {
+      "id": 116,
+      "name": "Peeling (Yüz)",
+      "gtip": "3304.99.00",
+      "gtip_description": "Cilt bakım ürünleri",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "Scrub, 50ml"
+    },
+    {
+      "id": 117,
+      "name": "Saç Kremi (Bakım)",
+      "gtip": "3305.90.00",
+      "gtip_description": "Saç bakım müstahzarları",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "Conditioner, 500ml"
+    },
+    {
+      "id": 118,
+      "name": "Saç Boyası",
+      "gtip": "3305.90.00",
+      "gtip_description": "Saç boyama müstahzarları",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "Kalıcı boya, siyah"
+    },
+    {
+      "id": 119,
+      "name": "Göz Kremi (Anti-Aging)",
+      "gtip": "3304.99.00",
+      "gtip_description": "Göz çevresi bakım ürünleri",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "Kırışıklık karşıtı, 15ml"
+    },
+    {
+      "id": 120,
+      "name": "Cilt Serumu (Vitamin C)",
+      "gtip": "3304.99.00",
+      "gtip_description": "Cilt bakım serumları",
+      "category": "Kozmetik",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "Aydınlatıcı serum, 30ml"
+    },
+    {
+      "id": 121,
+      "name": "LEGO Set (Star Wars)",
+      "gtip": "9503.00.00",
+      "gtip_description": "Tekerlekli oyuncaklar, bebekler ve diğer oyuncaklar",
+      "category": "Oyuncak",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "1000 parça, 10+ yaş"
+    },
+    {
+      "id": 122,
+      "name": "Bebek (Barbie)",
+      "gtip": "9503.00.00",
+      "gtip_description": "Bebekler",
+      "category": "Oyuncak",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Plastik bebek, 30cm"
+    },
+    {
+      "id": 123,
+      "name": "Oyun Konsolu Kolu (PS5)",
+      "gtip": "9504.50.00",
+      "gtip_description": "Video oyun konsolları ve makineleri",
+      "category": "Oyuncak",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "DualSense controller"
+    },
+    {
+      "id": 124,
+      "name": "Puzzle (1000 Parça)",
+      "gtip": "9503.00.00",
+      "gtip_description": "Diğer oyuncaklar",
+      "category": "Oyuncak",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Manzara puzzle, 50x70cm"
+    },
+    {
+      "id": 125,
+      "name": "Oyuncak Araba (Uzaktan Kumandalı)",
+      "gtip": "9503.00.00",
+      "gtip_description": "Tekerlekli oyuncaklar",
+      "category": "Oyuncak",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "RC araba, 1/10 ölçek"
+    },
+    {
+      "id": 126,
+      "name": "Peluş Oyuncak (Ayıcık)",
+      "gtip": "9503.00.00",
+      "gtip_description": "Doldurulmuş oyuncaklar",
+      "category": "Oyuncak",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Teddy bear, 50cm"
+    },
+    {
+      "id": 127,
+      "name": "Masa Tenisi Seti",
+      "gtip": "9506.40.00",
+      "gtip_description": "Masa tenisi için eşya",
+      "category": "Oyuncak",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "2 raket + 3 top"
+    },
+    {
+      "id": 128,
+      "name": "Dart Tahtası",
+      "gtip": "9504.90.00",
+      "gtip_description": "Diğer oyun eşyası",
+      "category": "Oyuncak",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Elektronik dart, sesli"
+    },
+    {
+      "id": 129,
+      "name": "Satranç Takımı (Ahşap)",
+      "gtip": "9504.90.00",
+      "gtip_description": "Diğer oyun eşyası",
+      "category": "Oyuncak",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "El yapımı, katlanabilir tahta"
+    },
+    {
+      "id": 130,
+      "name": "Monopoly (Kutu Oyunu)",
+      "gtip": "9504.90.00",
+      "gtip_description": "Diğer oyun eşyası",
+      "category": "Oyuncak",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Klasik versiyon, Türkçe"
+    },
+    {
+      "id": 131,
+      "name": "Nerf Tabancası",
+      "gtip": "9503.00.00",
+      "gtip_description": "Oyuncak silahlar",
+      "category": "Oyuncak",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Sünger mermili, 10 mermi"
+    },
+    {
+      "id": 132,
+      "name": "Scooter (Çocuk)",
+      "gtip": "9503.00.00",
+      "gtip_description": "Tekerlekli oyuncaklar",
+      "category": "Oyuncak",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Katlanabilir, 3 tekerlekli"
+    },
+    {
+      "id": 133,
+      "name": "Slime (Oyun Hamuru)",
+      "gtip": "9503.00.00",
+      "gtip_description": "Diğer oyuncaklar",
+      "category": "Oyuncak",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Renkli slime, 200g"
+    },
+    {
+      "id": 134,
+      "name": "Uçurtma",
+      "gtip": "9503.00.00",
+      "gtip_description": "Diğer oyuncaklar",
+      "category": "Oyuncak",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Delta şeklinde, 2m"
+    },
+    {
+      "id": 135,
+      "name": "Sihirli Küp (Rubik)",
+      "gtip": "9503.00.00",
+      "gtip_description": "Diğer oyuncaklar",
+      "category": "Oyuncak",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "3x3, speed cube"
+    },
+    {
+      "id": 136,
+      "name": "Halı (Yün)",
+      "gtip": "5702.42.00",
+      "gtip_description": "Yünden dokunmuş halılar",
+      "category": "Ev Eşyası",
+      "customs_duty": 8,
+      "vat": 20,
+      "notes": "El dokuma, 2x3m"
+    },
+    {
+      "id": 137,
+      "name": "Lamba (Masa Lambası)",
+      "gtip": "9405.20.00",
+      "gtip_description": "Elektrikli masa lambaları",
+      "category": "Ev Eşyası",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Modern tasarım, LED"
+    },
+    {
+      "id": 138,
+      "name": "Yatak (Çift Kişilik)",
+      "gtip": "9404.21.00",
+      "gtip_description": "Poliüretan köpüklü yataklar",
+      "category": "Ev Eşyası",
+      "customs_duty": 4,
+      "vat": 20,
+      "notes": "160x200cm, visco yatak"
+    },
+    {
+      "id": 139,
+      "name": "Masa (Yemek Masası)",
+      "gtip": "9403.60.00",
+      "gtip_description": "Ahşap mobilya",
+      "category": "Ev Eşyası",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "6 kişilik, meşe"
+    },
+    {
+      "id": 140,
+      "name": "Sandalye (Ofis Koltuğu)",
+      "gtip": "9401.30.00",
+      "gtip_description": "Döner sandalyeler",
+      "category": "Ev Eşyası",
+      "customs_duty": 4,
+      "vat": 20,
+      "notes": "Ergonomik, ayarlanabilir"
+    },
+    {
+      "id": 141,
+      "name": "Koltuk Takımı (3+2)",
+      "gtip": "9401.61.00",
+      "gtip_description": "Ahşap iskeletli döşeli koltuklar",
+      "category": "Ev Eşyası",
+      "customs_duty": 4,
+      "vat": 20,
+      "notes": "Modern, gri renk"
+    },
+    {
+      "id": 142,
+      "name": "Yatak Örtüsü (Çift Kişilik)",
+      "gtip": "6302.31.00",
+      "gtip_description": "Pamuktan yatak takımları",
+      "category": "Ev Eşyası",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "Nevresim + 2 yastık kılıfı"
+    },
+    {
+      "id": 143,
+      "name": "Havlu Takımı",
+      "gtip": "6302.60.00",
+      "gtip_description": "Pamuktan havlular",
+      "category": "Ev Eşyası",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "Banyo + yüz havlusu, 6'lı"
+    },
+    {
+      "id": 144,
+      "name": "Perde (Fon Perde)",
+      "gtip": "6303.92.00",
+      "gtip_description": "Sentetik iplikten perdeler",
+      "category": "Ev Eşyası",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "Blackout perde, 2.8m"
+    },
+    {
+      "id": 145,
+      "name": "Yastık (Visco)",
+      "gtip": "9404.90.00",
+      "gtip_description": "Yastıklar",
+      "category": "Ev Eşyası",
+      "customs_duty": 4,
+      "vat": 20,
+      "notes": "Memory foam, boyun yastığı"
+    },
+    {
+      "id": 146,
+      "name": "Tabak Takımı (Yemek Takımı)",
+      "gtip": "6911.10.00",
+      "gtip_description": "Porselen sofra eşyası",
+      "category": "Ev Eşyası",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "6 kişilik, 24 parça"
+    },
+    {
+      "id": 147,
+      "name": "Tencere Seti",
+      "gtip": "7323.93.00",
+      "gtip_description": "Paslanmaz çelikten sofra eşyası",
+      "category": "Ev Eşyası",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "7 parça, granit kaplama"
+    },
+    {
+      "id": 148,
+      "name": "Tava (Derin)",
+      "gtip": "7323.93.00",
+      "gtip_description": "Paslanmaz çelikten mutfak eşyası",
+      "category": "Ev Eşyası",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "28cm, teflon kaplama"
+    },
+    {
+      "id": 149,
+      "name": "Bardak Takımı (Cam)",
+      "gtip": "7013.37.00",
+      "gtip_description": "Camdan içki bardakları",
+      "category": "Ev Eşyası",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "6 adet su bardağı"
+    },
+    {
+      "id": 150,
+      "name": "Çöp Kovası (Pedallı)",
+      "gtip": "7323.99.00",
+      "gtip_description": "Demirden ev eşyası",
+      "category": "Ev Eşyası",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "30L, paslanmaz çelik"
+    },
+    {
+      "id": 151,
+      "name": "Ayna (Duvar Aynası)",
+      "gtip": "7009.92.00",
+      "gtip_description": "Çerçeveli camdan aynalar",
+      "category": "Ev Eşyası",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "60x80cm, dekoratif çerçeve"
+    },
+    {
+      "id": 152,
+      "name": "Saat (Duvar Saati)",
+      "gtip": "9105.11.00",
+      "gtip_description": "Elektrikli duvar saatleri",
+      "category": "Ev Eşyası",
+      "customs_duty": 8,
+      "vat": 20,
+      "notes": "Sessiz mekanizma, 30cm"
+    },
+    {
+      "id": 153,
+      "name": "Vazo (Seramik)",
+      "gtip": "6913.90.00",
+      "gtip_description": "Seramikten süs eşyası",
+      "category": "Ev Eşyası",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "El yapımı, 40cm"
+    },
+    {
+      "id": 154,
+      "name": "Çaydanlık (İnox)",
+      "gtip": "7323.93.00",
+      "gtip_description": "Paslanmaz çelikten mutfak eşyası",
+      "category": "Ev Eşyası",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Düdüklü, 3L"
+    },
+    {
+      "id": 155,
+      "name": "Çamaşır Sepeti",
+      "gtip": "4602.19.00",
+      "gtip_description": "Hasırdan ev eşyası",
+      "category": "Ev Eşyası",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Plastik, 50L"
+    },
+    {
+      "id": 156,
+      "name": "Lastik (Otomobil)",
+      "gtip": "4011.10.00",
+      "gtip_description": "Binek otomobiller için yeni lastikler",
+      "category": "Otomotiv",
+      "customs_duty": 5,
+      "vat": 20,
+      "notes": "205/55 R16, yaz lastiği"
+    },
+    {
+      "id": 157,
+      "name": "Motor Yağı (Sentetik)",
+      "gtip": "2710.19.00",
+      "gtip_description": "Motor yağları",
+      "category": "Otomotiv",
+      "customs_duty": 6.5,
+      "vat": 20,
+      "notes": "5W-30, 4L"
+    },
+    {
+      "id": 158,
+      "name": "Fren Balata Takımı",
+      "gtip": "8708.30.00",
+      "gtip_description": "Fren ve parçaları",
+      "category": "Otomotiv",
+      "customs_duty": 3,
+      "vat": 20,
+      "notes": "Ön balata, 4 adet"
+    },
+    {
+      "id": 159,
+      "name": "Hava Filtresi",
+      "gtip": "8421.31.00",
+      "gtip_description": "Motor için hava filtreleri",
+      "category": "Otomotiv",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Orijinal yedek parça"
+    },
+    {
+      "id": 160,
+      "name": "Far (LED)",
+      "gtip": "8512.20.00",
+      "gtip_description": "Motorlu taşıtlar için aydınlatma tertibatı",
+      "category": "Otomotiv",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Ön far, sağ"
+    },
+    {
+      "id": 161,
+      "name": "Akü (12V)",
+      "gtip": "8507.10.00",
+      "gtip_description": "Kurşun-asit akümülatörler",
+      "category": "Otomotiv",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "60Ah, kalsiyum akü"
+    },
+    {
+      "id": 162,
+      "name": "Silecek Takımı",
+      "gtip": "8512.90.00",
+      "gtip_description": "Taşıtlar için parçalar",
+      "category": "Otomotiv",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Ön cam, 2 adet"
+    },
+    {
+      "id": 163,
+      "name": "Egzoz Borusu",
+      "gtip": "8708.92.00",
+      "gtip_description": "Susturucular ve egzoz boruları",
+      "category": "Otomotiv",
+      "customs_duty": 3,
+      "vat": 20,
+      "notes": "Paslanmaz çelik, spor"
+    },
+    {
+      "id": 164,
+      "name": "Disk (Fren Diski)",
+      "gtip": "8708.30.00",
+      "gtip_description": "Fren ve parçaları",
+      "category": "Otomotiv",
+      "customs_duty": 3,
+      "vat": 20,
+      "notes": "Ön disk, çift taraflı"
+    },
+    {
+      "id": 165,
+      "name": "Kaporta (Çamurluk)",
+      "gtip": "8708.29.00",
+      "gtip_description": "Karoser parçaları",
+      "category": "Otomotiv",
+      "customs_duty": 3,
+      "vat": 20,
+      "notes": "Sağ ön çamurluk"
+    },
+    {
+      "id": 166,
+      "name": "Ayna (Dış Dikiz)",
+      "gtip": "8708.29.00",
+      "gtip_description": "Karoser parçaları",
+      "category": "Otomotiv",
+      "customs_duty": 3,
+      "vat": 20,
+      "notes": "Elektrikli, ısıtmalı, sol"
+    },
+    {
+      "id": 167,
+      "name": "Oto Teyp (Bluetooth)",
+      "gtip": "8527.21.00",
+      "gtip_description": "Motorlu taşıtlarda kullanılan radyo alıcıları",
+      "category": "Otomotiv",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "Dokunmatik ekran, USB"
+    },
+    {
+      "id": 168,
+      "name": "Araç Kamerası (Dashcam)",
+      "gtip": "8525.80.00",
+      "gtip_description": "Dijital kameralar",
+      "category": "Otomotiv",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "Full HD, gece görüş"
+    },
+    {
+      "id": 169,
+      "name": "Oto Koltuk Kılıfı",
+      "gtip": "6304.92.00",
+      "gtip_description": "Pamuktan döşemelik eşya",
+      "category": "Otomotiv",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "Deri görünümlü, 5 koltuk"
+    },
+    {
+      "id": 170,
+      "name": "Oto Paspas Takımı",
+      "gtip": "5703.20.00",
+      "gtip_description": "Sentetik liflerden halılar",
+      "category": "Otomotiv",
+      "customs_duty": 8,
+      "vat": 20,
+      "notes": "4 parça, lastik"
+    },
+    {
+      "id": 171,
+      "name": "Roman (En Çok Satan)",
+      "gtip": "4901.99.00",
+      "gtip_description": "Basılı kitaplar",
+      "category": "Kitap",
+      "customs_duty": 0,
+      "vat": 10,
+      "notes": "Türkçe, 400 sayfa"
+    },
+    {
+      "id": 172,
+      "name": "Ders Kitabı (Üniversite)",
+      "gtip": "4901.99.00",
+      "gtip_description": "Basılı kitaplar",
+      "category": "Kitap",
+      "customs_duty": 0,
+      "vat": 10,
+      "notes": "Matematik, ciltli"
+    },
+    {
+      "id": 173,
+      "name": "Çocuk Kitabı (Resimli)",
+      "gtip": "4903.00.00",
+      "gtip_description": "Çocuklar için resimli kitaplar",
+      "category": "Kitap",
+      "customs_duty": 0,
+      "vat": 10,
+      "notes": "6+ yaş, renkli"
+    },
+    {
+      "id": 174,
+      "name": "Defter (A4, Kareli)",
+      "gtip": "4820.20.00",
+      "gtip_description": "Defterleri",
+      "category": "Kırtasiye",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "100 yaprak, spiralli"
+    },
+    {
+      "id": 175,
+      "name": "Kalem Seti (Renkli)",
+      "gtip": "9608.10.00",
+      "gtip_description": "Tükenmez kalemler",
+      "category": "Kırtasiye",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "12 renk, jel kalem"
+    },
+    {
+      "id": 176,
+      "name": "Futbol Topu",
+      "gtip": "9506.62.00",
+      "gtip_description": "Futbol topları",
+      "category": "Spor",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "5 numara, deri"
+    },
+    {
+      "id": 177,
+      "name": "Yoga Matı",
+      "gtip": "9506.91.00",
+      "gtip_description": "Genel fizik egzersizi için eşya",
+      "category": "Spor",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "6mm kalınlık, kaydırmaz"
+    },
+    {
+      "id": 178,
+      "name": "Dumbell Seti",
+      "gtip": "9506.91.00",
+      "gtip_description": "Genel fizik egzersizi için eşya",
+      "category": "Spor",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "2x5kg, ayarlanabilir"
+    },
+    {
+      "id": 179,
+      "name": "Koşu Bandı",
+      "gtip": "9506.91.00",
+      "gtip_description": "Genel fizik egzersizi için eşya",
+      "category": "Spor",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Elektrikli, katlanabilir"
+    },
+    {
+      "id": 180,
+      "name": "Bisiklet (Dağ Bisikleti)",
+      "gtip": "8712.00.00",
+      "gtip_description": "Bisikletler",
+      "category": "Spor",
+      "customs_duty": 5,
+      "vat": 20,
+      "notes": "26 jant, 21 vites"
+    },
+    {
+      "id": 181,
+      "name": "Tenis Raketi",
+      "gtip": "9506.51.00",
+      "gtip_description": "Tenis raketleri",
+      "category": "Spor",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Karbon, profesyonel"
+    },
+    {
+      "id": 182,
+      "name": "Kask (Bisiklet)",
+      "gtip": "6506.10.00",
+      "gtip_description": "Koruyucu başlıklar",
+      "category": "Spor",
+      "customs_duty": 5.1,
+      "vat": 20,
+      "notes": "Ayarlanabilir, ledli"
+    },
+    {
+      "id": 183,
+      "name": "Yüzme Gözlüğü",
+      "gtip": "9004.90.00",
+      "gtip_description": "Koruyucu gözlükler",
+      "category": "Spor",
+      "customs_duty": 2.5,
+      "vat": 20,
+      "notes": "Anti-fog, UV korumalı"
+    },
+    {
+      "id": 184,
+      "name": "Basketbol Topu",
+      "gtip": "9506.69.00",
+      "gtip_description": "Diğer şişirilebilir toplar",
+      "category": "Spor",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "7 numara, deri"
+    },
+    {
+      "id": 185,
+      "name": "Kamp Çadırı",
+      "gtip": "6306.22.00",
+      "gtip_description": "Sentetik iplikten çadırlar",
+      "category": "Spor",
+      "customs_duty": 12,
+      "vat": 20,
+      "notes": "4 kişilik, su geçirmez"
+    },
+    {
+      "id": 186,
+      "name": "Ateş Ölçer (Dijital)",
+      "gtip": "9025.19.00",
+      "gtip_description": "Termometreler",
+      "category": "Sağlık",
+      "customs_duty": 2.7,
+      "vat": 10,
+      "notes": "Temassız, infrared"
+    },
+    {
+      "id": 187,
+      "name": "Tansiyon Aleti",
+      "gtip": "9018.90.00",
+      "gtip_description": "Tıbbi aletler",
+      "category": "Sağlık",
+      "customs_duty": 0,
+      "vat": 10,
+      "notes": "Dijital, bilekten"
+    },
+    {
+      "id": 188,
+      "name": "Glukoz Ölçer (Şeker Ölçer)",
+      "gtip": "9027.80.00",
+      "gtip_description": "Diğer analiz aletleri",
+      "category": "Sağlık",
+      "customs_duty": 0,
+      "vat": 10,
+      "notes": "50 test stribi dahil"
+    },
+    {
+      "id": 189,
+      "name": "Nebulizatör (Buhar Makinesi)",
+      "gtip": "9019.20.00",
+      "gtip_description": "Ozon, oksijen, aerosol tedavi aletleri",
+      "category": "Sağlık",
+      "customs_duty": 0,
+      "vat": 10,
+      "notes": "Kompresörlü, çocuk maskeli"
+    },
+    {
+      "id": 190,
+      "name": "Maske (N95)",
+      "gtip": "6307.90.00",
+      "gtip_description": "Diğer hazır eşya",
+      "category": "Sağlık",
+      "customs_duty": 12,
+      "vat": 10,
+      "notes": "50'li kutu, tek kullanımlık"
+    },
+    {
+      "id": 191,
+      "name": "Vitamin D Damlası",
+      "gtip": "3004.50.00",
+      "gtip_description": "Vitaminler ve diğer ürünler",
+      "category": "Sağlık",
+      "customs_duty": 0,
+      "vat": 10,
+      "notes": "Bebek için, 20ml"
+    },
+    {
+      "id": 192,
+      "name": "Omega-3 Balık Yağı",
+      "gtip": "3004.50.00",
+      "gtip_description": "Vitaminler ve diğer ürünler",
+      "category": "Sağlık",
+      "customs_duty": 0,
+      "vat": 10,
+      "notes": "1000mg, 100 kapsül"
+    },
+    {
+      "id": 193,
+      "name": "Protein Tozu (Whey)",
+      "gtip": "2106.90.00",
+      "gtip_description": "Başka yerde belirtilmeyen gıda müstahzarları",
+      "category": "Sağlık",
+      "customs_duty": 60.8,
+      "vat": 10,
+      "notes": "Çikolata aromalı, 1kg"
+    },
+    {
+      "id": 194,
+      "name": "Termometre (Cıva)",
+      "gtip": "9025.11.00",
+      "gtip_description": "Sıvılı termometreler",
+      "category": "Sağlık",
+      "customs_duty": 2.7,
+      "vat": 10,
+      "notes": "Klasik cam termometre"
+    },
+    {
+      "id": 195,
+      "name": "İlk Yardım Çantası",
+      "gtip": "9021.90.00",
+      "gtip_description": "Diğer ortopedik cihazlar",
+      "category": "Sağlık",
+      "customs_duty": 0,
+      "vat": 10,
+      "notes": "30 parça, taşınabilir"
+    },
+    {
+      "id": 196,
+      "name": "Kulak Termometresi",
+      "gtip": "9025.19.00",
+      "gtip_description": "Termometreler",
+      "category": "Sağlık",
+      "customs_duty": 2.7,
+      "vat": 10,
+      "notes": "Dijital, 1 saniye"
+    },
+    {
+      "id": 197,
+      "name": "Oksimetre (Nabız Ölçer)",
+      "gtip": "9018.19.00",
+      "gtip_description": "Diğer elektrotıp aletleri",
+      "category": "Sağlık",
+      "customs_duty": 0,
+      "vat": 10,
+      "notes": "Parmak tipi, oksijen saturasyonu"
+    },
+    {
+      "id": 198,
+      "name": "Bel Destekli Korse",
+      "gtip": "9021.10.00",
+      "gtip_description": "Ortopedik aparatlar",
+      "category": "Sağlık",
+      "customs_duty": 0,
+      "vat": 10,
+      "notes": "Ayarlanabilir, L beden"
+    },
+    {
+      "id": 199,
+      "name": "Pil (AA Kalem Pil)",
+      "gtip": "8506.10.00",
+      "gtip_description": "Manganez dioksitli piller",
+      "category": "Elektronik",
+      "customs_duty": 2.7,
+      "vat": 20,
+      "notes": "Alkalin, 4'lü paket"
+    },
+    {
+      "id": 200,
+      "name": "Güç Kaynağı (Laptop Şarj)",
+      "gtip": "8504.40.00",
+      "gtip_description": "Statik konvertörler",
+      "category": "Elektronik",
+      "customs_duty": 0,
+      "vat": 20,
+      "notes": "65W, universal adaptor"
+    }
+  ]
+}

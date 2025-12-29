@@ -1,0 +1,281 @@
+TÜRK GÜMRÜK VE DIŞ TİCARET MEVZUATI
+
+BÖLÜM 1: İTHALAT İŞLEMLERİ
+
+Madde 1: İthalat Nedir
+Ürün ithal etmek, başka bir ülkeden bir şey getirmek anlamına gelir ve varışta gümrük işlemlerinden geçer. İthalat ticareti gümrük yetkilileri tarafından düzenlenmektedir. Ürün akışını kontrol ederler ve gümrük vergisi ve masraflarının toplanmasından sorumludurlar.
+
+Madde 2: İthalat Sürecindeki Temel Unsurlar
+İthalat süreci bir ithalatçı ve bir ihracatçıyı içerir ve bazen bir gümrük müşaviri aracılık eder. Her şeyin yolunda gitmesini sağlamak için her bir tarafın sorumluluklarını, yürürlükteki düzenlemeleri anlamak ve doğru belgeleri hazır bulundurmak hayati önem taşımaktadır.
+
+Madde 3: İthalatçı Kimdir
+İthalatçı, şahsen veya bir müşavir aracılığıyla ithalat beyannamesi veren ve vergi ve harçların ödenmesinden sorumlu olan taraftır. Gönderi belgelerinde bu tarafın adı genellikle alıcı veya gönderilen olarak belirtilir. Hem ticari hem de özel bir kişi ithalatçı olarak kabul edilebilir. Çoğu durumda ithalatçı, ithal edilen ürünlerin de sahibidir.
+
+Madde 4: İhracatçı Kimdir
+İhracatçı, başka bir ülkeye ürün gönderen kişi veya şirkettir. İhracat, ürünlerin gönderildiği ülkenin gümrük yetkilileri tarafından düzenlenmektedir.
+
+Madde 5: Gümrük Nedir
+Gümrük, bir ülkeye giren ve çıkan ürün akışını kontrol eden yetkililerdir. Bir ülkenin ithalat ve ihracat yasa ve düzenlemelerini uygulamaktan sorumludurlar. Ayrıca her türlü harç ve vergiyi de toplarlar.
+
+Madde 6: Gümrükleme Nedir
+Gümrükleme, ürünlerin gümrükten geçirilmesi sürecidir. Ürünler bir ülkeye ya da ulusal bölgeye girip çıktığında uygulanır. Gümrükleme, ürünlerin sınır ötesi hareketini kontrol etmek ve onaylamak için kullanılan bir araçtır.
+
+Madde 7: İthalatta Kontrol Edilmesi Gerekenler
+İthal etmeyi planladığınız ürünlerin ülkenizde izinli olduğundan emin olun. Bazı ürünlerin yasaklanmış olabileceğini, bazılarına ise yalnızca sınırlı miktarlarda veya belirli koşullar altında izin verilebileceğini unutmayın. Ürünlerinizi ithal etmenin sertifika veya lisans gerektirip gerektirmediğini öğrenin. İthalat kısıtlamaları ve düzenlemeleri hakkında ayrıntılı bilgi için ülkenizin gümrük internet sitesine bakın.
+
+Madde 8: Ürünlerin Beyan Edilmesi
+Ürün beyanında bulunmak için gümrük beyannamesi vermeniz gerekecektir. Çoğu durumda bu elektronik olarak yapılabilir. Taşıyıcınız genellikle bu işi sizin yerinize halledebilir ancak ürünler taşıyıcıya teslim edilmeden önce bunun mümkün olup olmadığını kontrol etmelisiniz. Halledemiyorsa, gümrükleme işlemini yapması için kendi gümrük müşavirinizi görevlendirmelisiniz.
+
+Madde 9: Gümrük Beyannamesi Nedir
+Gümrük beyanı, ürünlerin niteliği, değeri, alıcısı ve gönderinin nihai varış yeri gibi bilgileri içeren bir belgedir. Ürünlerin ihracatı veya ithalatı için gerekli olup, düzenlemeye tabi tüm ürünlerin uygun izin kapsamında sevk edilmesiyle birlikte gelir. Gümrük beyannamesi aynı zamanda ürünlerin gümrüğe beyan edilmesi işlemidir.
+
+Madde 10: Menşe Ülke Nedir
+Menşe ülke, ürünün ve içindeki unsurların menşei olan ülkedir. Bu, ürünlerin gönderildiği ülkeden farklı olabilir. Ürünleriniz farklı ülkelerden gelen bileşenler içeriyorsa birden fazla menşe ülkeyle ilgili düzenlemeleri kontrol ettiğinizden emin olun. Gümrük, ithal edilen ürünlerin ticaretinin düzenlemelere tabi olup olmadığını belirlemek ve gönderinize ilişkin harç ve vergi oranlarını değerlendirmek için ürünlerin menşeini kullanır.
+
+Madde 11: İthalat Lisansı Nedir
+İthalat lisansı, devlet kurumları tarafından şirketlerin ve bireylerin belirli ürünleri kendi topraklarına getirmesine izin veren bir belgedir. İthalat lisansları firmaya ve ürüne özel olabilir.
+
+Madde 12: Gümrük Müşavirleri Kimlerdir
+Gümrük müşavirleri, ürünlerin gümrükten geçirilmesinden ve hazırlanmasından sorumlu uluslararası ticaret uzmanlarıdır. Onaylı müşavirler genellikle ülkenizin gümrük web sitesinde veya yerel gümrük müşavirleri ve nakliye müşavirleri birliği aracılığıyla bulunabilir. Bazı ülkelerde yasal olarak zorunlu kılındığı için vekaletname ihtiyacınızın olup olmadığını da kontrol etmelisiniz.
+
+Madde 13: İthalat İçin Gerekli Belgeler
+İthalat için gereken temel belgeler şunlardır:
+- Gümrük beyannamesi
+- Hava konşimentosu veya deniz konşimentosu
+- Ticari fatura
+- Menşe şahadetnamesi
+- Lisans veya sertifika (ürüne göre gerekirse)
+- EORI numarası (Avrupa gönderileri için)
+- Paket listesi
+Belgelerin sevkıyat gümrüğe ulaşmadan önce tamamlanmış ve mevcut olması önemlidir. Tüm belgelerdeki ayrıntılar eşleşmelidir. Eksik veya kayıp evraklar, ürünlerin gümrükten geçmemesinin en önemli nedenlerinden biridir.
+
+Madde 14: Farklı Gümrükleme Türleri
+Ürünlere, değere ve varış ülkesine bağlı olarak farklı gümrükleme türleri vardır. Gönderiniz için hangisinin geçerli olduğunu öğrenmek için taşıyıcı firmanıza danışın veya ülkenizin gümrüğünün web sitesine bakın. Bazı gümrük işlemlerinin diğerlerinden daha uzun sürebileceğini ve gümrük müşaviri gerektirebileceğini unutmayın.
+
+Madde 15: Gümrük Vergisi ve Masrafları
+Taşıyıcınız genellikle size bir gönderinin gümrük ve vergi tutarını söyleyebilir. Bunları, ürünler gümrüğe ulaşmadan önce taşıyıcınıza ödersiniz, onlar da sizin adınıza ödeme yapar. Veya bazı taşıyıcılar harç ve vergileri önceden öder ve daha sonra bunları sizden geri alır.
+
+Madde 16: Ürünlerin Gümrükten Çıkışı
+Gümrük görevlileri beyannameyi işledikten, her şeyin yolunda olduğunu kontrol ettikten ve harç ve vergi ödemesini aldıktan sonra ürünlerinizin ülkeye serbest biçimde girişine izin vereceklerdir.
+
+
+BÖLÜM 2: ANTREPO SİSTEMİ
+
+Madde 17: Antrepo Nedir
+Firmalar, ithalat ve ihracat işlemlerini gerçekleştirirken belirli gümrük ve evrak işlemleri yapmak zorundadır. Bu süreçte ilgili malların bir depoda bekletilmesi ihtiyacı doğar. Gümrüklere yakın şekilde konumlandırılan bu depolara antrepo adı verilir. Antrepoda bekleyen mallar henüz vergisi ödenmemiş ticari mallar olarak nitelendirilir.
+
+Madde 18: Antrepoda Bekleme Süreleri
+Antrepoda bekletilme için minimum veya maksimum süre belirlenmemiştir. Gümrük ve evrak işlemleri tamamlanana kadar mallar antrepoda bekletilebilir. Malların antrepoda tutulması için belirlenmiş bir süre sınırı yoktur.
+
+Madde 19: Antrepo İşlemleri
+Gümrük idareleri tarafından gerek görülmesi halinde malların başka bir işlemde kullanılacak olmaları durumunda, mala gümrükçe onaylanmış yeni bir işlem veya kullanım tayin edilebilir. Böyle bir durumda beyannamenin tescil edilmesinden itibaren 30 gün içerisinde malların tüm işlemleri bitirilerek çıkışlarının yapılması gerekir. Aksi takdirde mallar antrepodan tahliye edilir.
+
+Madde 20: Antrepo ile Depo Farkı
+Antrepolarda prensip olarak malların muhafaza edilmesinde herhangi bir süre sınırlaması yoktur. Mallar onaylanmış bir işlem veya kullanıma tabi tutulmadıkları sürece antrepoda bekletilebilir. Depolarda ise malların muhafazası belirli bir süre ile sınırlandırılmıştır. Bu süre malların hangi yolla taşındığına bağlı olarak değişiklik gösterir.
+
+Madde 21: Antrepo ve Depolarda Yapılabilecek İşlemler
+Antrepo içerisinde muhafaza edilen mallar işleme, elleçleme gibi belli gümrükleme işlemlerinden geçirilir. Depolarda ise bu imkan sınırlıdır. Antrepoya malların yerleştirilmesi için antrepo beyannamesi tescil etmek gerekir. Depolarda ise mallar özet beyan ile alınabilir.
+
+Madde 22: Antrepo Çeşitleri
+Antrepo çeşitleri özel ve genel antrepolar olmak üzere iki ana gruba ayrılır. Genel antrepolar birden çok firma tarafından ortak şekilde kullanılan antrepolardır. Yalnızca kiralayan firmanın kullandığı antrepolar ise özel antrepo olarak adlandırılır. Genel ve özel antrepolar kendi içlerinde farklı antrepo tipleri barındırır.
+
+
+BÖLÜM 3: GÜMRÜK KANUNU GENEL HÜKÜMLER
+
+Madde 23: Kanunun Amacı
+Bu Kanunun amacı, Türkiye Cumhuriyeti Gümrük Bölgesine giren ve çıkan eşyaya ve taşıt araçlarına uygulanacak gümrük kurallarını belirlemektir.
+
+Madde 24: Gümrük Bölgesi
+Türkiye Cumhuriyeti Gümrük Bölgesi, Türkiye Cumhuriyeti topraklarını kapsar. Türkiye kara suları, iç suları ve hava sahası gümrük bölgesine dahildir.
+
+Madde 25: Gümrük İdaresi Tanımı
+Gümrük idaresi, gümrük mevzuatında belirtilen işlemlerin yerine getirildiği merkez veya taşra teşkilatındaki yönetim birimlerinin tamamını ifade eder. Giriş gümrük idaresi, ithalat gümrük idaresi, ihracat gümrük idaresi ve çıkış gümrük idaresi olmak üzere farklı türleri vardır.
+
+Madde 26: Kişi Tanımı
+Kişi, gerçek ve tüzel kişiler ile hukuken tüzel kişilik statüsüne sahip olmamakla birlikte yürürlükteki mevzuat uyarınca hukuki tasarruflar yapma yetkisi tanınan kişiler ortaklığını ifade eder.
+
+Madde 27: Serbest Dolaşımda Bulunan Eşya
+Serbest dolaşımda bulunan eşya, tümüyle Türkiye Gümrük Bölgesinde elde edilen veya serbest dolaşıma giriş rejimine tabi tutularak ithal edilen veya Türkiye Gümrük Bölgesinde bu eşyadan elde edilen veya üretilen eşyayı ifade eder.
+
+Madde 28: Gümrük Vergileri Tanımı
+Gümrük vergileri, ilgili mevzuat uyarınca eşyaya uygulanan ithalat vergilerinin ya da ihracat vergilerinin tümünü ifade eder. Gümrük yükümlülüğü, yükümlünün gümrük vergilerini ödemesi zorunluluğunu ifade eder.
+
+Madde 29: İthalat Vergileri
+İthalat vergileri, eşyanın ithalinde ödenecek gümrük vergisi ile diğer eş etkili vergiler ve mali yükleri ile tarım politikası veya tarım ürünlerinin işlenmesi sonucu elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde ithalatta alınacak vergileri ve diğer mali yükleri ifade eder.
+
+Madde 30: Gümrük Gözetimi ve Kontrolü
+Gümrük gözetimi, gümrük mevzuatına ve gereken hallerde gümrük gözetimi altındaki eşyaya uygulanacak diğer hükümlere uyulmasını sağlamak üzere gümrük idareleri tarafından genel olarak uygulanan işlemleri ifade eder. Gümrük kontrolü, eşyanın muayenesi, beyanname verileri ile elektronik veya yazılı belgelerin varlığının ve gerçekliğinin doğrulanması işlemlerini kapsar.
+
+Madde 31: Gümrük Rejimleri
+Gümrük rejimi kavramı şu rejimleri ifade eder: Serbest dolaşıma giriş rejimi, transit rejimi, gümrük antrepo rejimi, dahilde işleme rejimi, gümrük kontrolü altında işleme rejimi, geçici ithalat rejimi, hariçte işleme rejimi ve ihracat rejimi.
+
+Madde 32: Gümrük Beyanı
+Gümrük beyanı, belirlenen usul ve esaslar çerçevesinde eşyanın bir gümrük rejimine tabi tutulması talebinde bulunulmasını ifade eder. Beyan sahibi, kendi adına beyanda bulunan kişiyi veya adına beyanda bulunulan kişiyi ifade eder.
+
+Madde 33: Gümrük İdareleriyle Muhatap Olanların Yükümlülükleri
+Gümrük idareleriyle muhatap olan kişiler bu Kanun ve ikincil düzenlemeler ile bunlara dayanılarak çıkarılan mevzuat hükümlerine uymak zorundadır. Bu kişiler gümrük idarelerinin yapacağı gözetim ve kontrollere tabi olmak, her tür vergi, resim, harç ve ücretleri ödemek veya bunların teminata bağlamak zorundadır.
+
+
+BÖLÜM 4: GÜMRÜK TARİFESİ VE EŞYANIN SINIFLANDIRILMASI
+
+Madde 34: Gümrük Tarifesi Tanımı
+Gümrük vergileri, gümrük yükümlülüğünün başladığı tarihte yürürlükte olan gümrük tarifesine göre hesaplanır. Eşya ticaretine ilişkin özel hükümlerle belirlenmiş diğer önlemler, gerektiği takdirde, söz konusu eşyanın tarife pozisyonuna göre uygulanır.
+
+Madde 35: Gümrük Tarifesi Kapsamı
+Gümrük Tarifesi şu unsurları kapsar: Türk Gümrük Tarife Cetveli, gümrük vergi oranları, tarım politikası düzenlemeleri, tercihli tarife uygulamaları, ithalat vergilerinde şartlı olarak uygulanacak muafiyet veya indirim uygulamaları ve diğer tarife uygulamaları.
+
+Madde 36: Nihai Kullanım ve Tercihli Tarife
+Mahiyeti ve nihai kullanım şekli gerekçesiyle, bazı eşyanın yararlanabileceği tercihli tarife uygulaması, Cumhurbaşkanınca belirlenen şartlara tabidir. Bir izin gerektiğinde ilgili madde hükümleri uygulanır.
+
+
+BÖLÜM 5: EŞYANIN GÜMRÜK KIYMETİ
+
+Madde 37: Gümrük Kıymeti Tanımı
+Eşyanın gümrük kıymeti, Gümrük Tarifesinin ve eşya ticaretine ilişkin belirli konularda getirilen tarife dışı düzenlemelerin uygulanması amacıyla belirlenen kıymettir.
+
+Madde 38: İthal Eşyasının Gümrük Kıymeti
+İthal eşyasının gümrük kıymeti, eşyanın satış bedelidir. Satış bedeli, Türkiye'ye ihraç amacıyla yapılan satışta, fiilen ödenen veya ödenecek fiyattır. Ancak bu fiyatın gümrük kıymetine esas alınabilmesi için belirli şartların yerine getirilmesi gerekir.
+
+Madde 39: Satış Bedelinin Esas Alınma Şartları
+Satış bedelinin gümrük kıymetine esas alınabilmesi için şu şartlar gereklidir: Eşyanın alıcısı tarafından elden çıkartılması veya kullanımı kısıtlamalara tabi olmamalıdır. Satış veya fiyat, kıymeti belirlenmekte olan eşya bakımından kıymeti tespit edilemez bir koşul veya edim konusu olmamalıdır. Eşyanın tekrar satışı sonucu doğan hasılanın bir bölümünün satıcıya intikal etmesi halinde bu miktar fiyata ilave yapılabilmelidir. Alıcı ve satıcı arasında bir ilişki bulunmamalı veya ilişkinin fiyatı etkilemediği belirlenmelidir.
+
+Madde 40: Gümrük Kıymetine Yapılacak İlaveler
+İthal eşyasının fiilen ödenen veya ödenecek fiyatına şu ilaveler yapılır: Satın alma komisyonları dışındaki komisyonlar ve tellaliye, kapların maliyeti, işçilik ve malzeme giderleri dahil ambalaj bedeli, ithal eşyasının üretiminde kullanılmak üzere alıcı tarafından bedelsiz veya düşük bedelle sağlanan mal ve hizmetlerin kıymeti, royalti ve lisans ücretleri, eşyanın Türkiye'deki giriş liman veya yerine kadar yapılan nakliye ve sigorta giderleri.
+
+Madde 41: Gümrük Kıymetine Dahil Edilmeyen Giderler
+İthal eşyasının fiilen ödenen veya ödenecek fiyatından şu giderler ayırt edilebilmeleri koşuluyla gümrük kıymetine dahil edilmez: Eşyanın Türkiye Cumhuriyeti Gümrük Bölgesine giriş yerine varışından sonra yapılan nakliye ve sigorta giderleri, ithal eşyası için ithalattan sonra yapılan inşa, kurma, montaj, bakım veya teknik yardıma ilişkin giderler, finansman anlaşması uyarınca alıcı tarafından üstlenilen faiz giderleri, ithal eşyasının Türkiye'de çoğaltılması hakkı için yapılan ödemeler, satın alma komisyonları, eşyanın ithali veya satışı nedeniyle Türkiye'de ödenecek ithalat vergileri.
+
+Madde 42: Yabancı Paraların Türk Lirasına Çevrilmesi
+Eşyanın gümrük vergisine esas alınacak kıymetinin Türk Lirası olarak beyanı zorunludur. Fatura veya diğer belgelerde yazılı yabancı paralar, gümrük yükümlülüğünün başladığı tarihte yürürlükte olan T.C. Merkez Bankası döviz satış kurları üzerinden Türk Lirasına çevrilir.
+
+
+BÖLÜM 6: EŞYANIN GÜMRÜK REJİMİNE TABİ TUTULMASI
+
+Madde 43: Gümrük Rejimine Tabi Tutulma
+Bir gümrük rejimine tabi tutulmak istenen eşya, bu rejime uygun şekilde yetkili gümrük idaresine beyan edilir. İhracat, hariçte işleme, transit veya antrepo rejimi için beyan edilen serbest dolaşımda bulunan eşya, gümrüğe verilen beyannamenin tescilinden itibaren Türkiye Gümrük Bölgesinden çıkıncaya veya imha edilinceye ya da gümrük beyannamesi iptal edilinceye kadar gümrük gözetimi altında kalır.
+
+Madde 44: Gümrük Beyanı Şekilleri
+Gümrük beyanı şu şekillerde yapılabilir: Yazılı olarak, bilgisayar veri işleme tekniği yoluyla, sözlü olarak, eşya sahibinin bu eşyayı bir gümrük rejimine tabi tutma isteğini ifade ettiği herhangi bir tasarruf yoluyla.
+
+Madde 45: Yazılı Beyan ve Beyanname
+Yazılı beyan beyanname ile yapılır. Bu beyannamenin eşyanın beyan edildiği gümrük rejimini düzenleyen hükümlerin uygulanması için gerekli bütün bilgileri ihtiva etmesi ve imzalanması gerekir. Eşyanın beyan edildiği gümrük rejimini düzenleyen hükümlerin uygulanması için gerekli bütün belgeler beyannameye eklenir.
+
+Madde 46: Beyannamenin Tescili
+Şartlara uygun beyannameler, ait oldukları eşyanın gümrüğe sunulmuş olması halinde tescil edilir. Tescil işlemi, beyana ilişkin bilgilerin gümrük bilgisayar sistemine girilerek sistem tarafından tescil tarihi ve sayısı verilmesini veya beyanname üzerine mühür vurularak sıra numarası ile tarih konulmasını ifade eder. Eşyanın beyan edildiği gümrük rejimine ilişkin tüm hükümlerin uygulanmasında esas alınacak tarih, beyannamenin tescil edildiği tarihtir.
+
+Madde 47: Beyannameyi Verebilecek Kişiler
+Gümrük beyannamesi, ilgili eşyayı ve eşyanın beyan edildiği gümrük rejimine ilişkin hükümlerin uygulanması için gerekli belgeleri yetkili gümrük idarelerine verme yetkisine sahip olan veya verilmesini sağlayabilen kişiler tarafından verilebilir. Bir beyannamenin tescilinin belirli bir kişi için özel yükümlülükler getirmesi halinde, bu beyanın söz konusu kişi tarafından ya da bu kişi hesabına yapılması ve beyan sahibinin Türkiye Gümrük Bölgesinde yerleşik olması gerekir.
+
+Madde 48: Beyannamenin Düzeltilmesi
+Başka bir eşyanın beyanı sonucunu doğurmaması kaydıyla, beyan sahibinin talebi üzerine beyannamede yer alan bir veya daha fazla bilginin düzeltilmesine gümrük idarelerince izin verilir. Ancak beyan sahibine eşyanın muayene edileceğinin bildirilmesinden, söz konusu bilgilerin yanlış olduğunun tespit edilmesinden veya eşyanın teslim edilmesinden sonra beyannamede düzeltme yapılmasına izin verilmez.
+
+Madde 49: Beyannamenin İptali
+Gümrük idareleri, beyan sahibinin talebi üzerine ve eşyanın yanlışlıkla beyanname konusu gümrük rejimine tabi tutulmasına veya beyan edildiği rejime tabi tutulmasının özel nedenlerle artık mümkün olmadığına ilişkin kanıtlayıcı belgeleri ibraz etmesi halinde, tescil edilmiş bir beyannameyi iptal edebilirler. Gümrük idarelerince beyan sahibine eşyanın muayene edileceğinin bildirilmiş olduğu hallerde, muayenenin sonucu alınmadan beyannamenin iptaline ilişkin talep kabul edilmez.
+
+Madde 50: Beyanın Doğruluğunun Araştırılması
+Gümrük idareleri, beyanın doğruluğunu araştırmak üzere şu yetkilere sahiptir: Beyanname ile ilgili ve beyannameye ekli belgeleri kontrol edebilir ve beyannamenin içerdiği bilgilerin doğruluğunu araştırmak amacı ile beyan sahibinden diğer belgeleri de vermesini isteyebilir. Eşyayı muayene edebilir ve ayrıntılı muayene veya tahlil amacıyla numune alabilirler.
+
+Madde 51: Eşyanın Teslimi
+Eşyanın ilgili rejime tabi tutulma şartlarının yerine getirilmesi ve eşyanın yasaklayıcı veya kısıtlayıcı önlemlere tabi olmaması kaydıyla, gümrük idareleri eşyayı teslim ederler. Beyannamenin tescilinin bir gümrük yükümlülüğü doğurması halinde, gümrük vergileri ödenmedikçe veya teminata bağlanmadıkça beyanname kapsamı eşya teslim edilemez. Beyan edilen gümrük rejimi hükümlerine göre teminat istenmesi halinde, söz konusu teminat alınmadan eşya teslim edilemez.
+
+
+BÖLÜM 7: SERBEST DOLAŞIMA GİRİŞ REJİMİ
+
+Madde 52: Serbest Dolaşıma Giriş Şartları
+Türkiye Gümrük Bölgesine gelen eşyanın serbest dolaşıma girişi ticaret politikası önlemlerinin uygulanması, eşyanın ithali için öngörülen diğer işlemlerin tamamlanması ve kanunen ödenmesi gereken vergilerin tahsili ile mümkündür.
+
+Madde 53: Nihai Kullanım Nedeniyle İndirimli Tarife
+Nihai kullanım nedeniyle indirimli veya sıfır vergi oranından yararlanarak serbest dolaşıma girmiş eşyanın gümrük gözetimi, nihai kullanım olarak kabul edilen üretim veya kullanım faaliyetiyle sona erer. Ayrıca, indirimli veya sıfır vergi uygulamasına ilişkin koşulların sona erdiği, eşyanın ihraç veya imha edildiği hallerde de gümrük gözetimi sona erer.
+
+
+BÖLÜM 8: GÜMRÜK VERGİLERİNDEN MUAFİYET VE İSTİSNALAR
+
+Madde 54: Muafiyet Kapsamındaki Eşya
+Serbest dolaşıma sokulacak eşya aşağıdaki hallerde gümrük vergilerinden muaftır: Cumhurbaşkanının zat ve ikametgahı için gelen eşya, mütekabiliyet esasına göre ithal edilen diplomatik eşya, asli görevleri ile ilgili olarak ithal edecekleri araç gereç silah teçhizat, değeri 150 EURO'yu geçmeyen eşya.
+
+Madde 55: Gerçek Kişilerin Şahsi Eşyası
+Gerçek kişiler tarafından serbest dolaşıma sokulacak şahsi eşyadan şunlar muaftır: Yerleşim yerlerini Türkiye Gümrük Bölgesine nakleden gerçek kişilere ait kullanılmış motorlu veya motorsuz özel nakil vasıtaları, yerleşim yerlerini Türkiye Gümrük Bölgesine nakleden gerçek kişilere ait her türlü kullanılmış ev eşyası, yerleşim yeri Türkiye'de olan bir Türk ile evlenerek veya evlenmek üzere Türkiye'ye gelen kişilere ait çeyiz eşyası, miras yoluyla intikal eden kişisel eşya, öğrenim görmek amacıyla gelen öğrencilere ilişkin eğitimle ilgili malzemeler.
+
+Madde 56: Eğitim Bilim ve Kültürel Amaçlı Eşya
+Ticari gaye güdülmemek ve amacı doğrultusunda kullanılmak üzere ithal edilen şu eşya muaftır: Eğitim bilim ve kültürel amaçlı eşya ile bilimsel alet ve cihazlar, tıbbi teşhis tedavi ve araştırma yapılmasına mahsus alet ve cihazlar, bilimsel araştırma amacına yönelik hayvanlar ile biyolojik veya kimyasal maddeler, ulusal araştırma geliştirme kurumları tarafından yürütülen veya desteklenen araştırma ve geliştirme faaliyetlerinde kullanılmak üzere ithal edilen eşya.
+
+Madde 57: Ulaştırmacılıkta Kullanılan Eşya
+Ulaştırmacılıkta kullanılan şu eşya muaftır: Taşıma sırasında eşyanın istifi ve korunması için yardımcı maddeler, canlı hayvanların nakli sırasında kullanılan kuru ot yem ve yiyecek maddeleri ile ilaçları, ulaşım araçları ile özel konteynerlerde mevcut bulunan akaryakıt ve madeni yağları, deniz ve hava ulaşım araçlarına ait donatım ve işletme malzemesi.
+
+
+BÖLÜM 9: GÜMRÜK YÜKÜMLÜLÜĞÜ
+
+Madde 58: Gümrük Yükümlülüğünün Doğması
+İthalatta gümrük yükümlülüğü ithalat vergilerine tabi eşyanın serbest dolaşıma girişi veya ithalat vergilerinden kısmi muafiyet suretiyle geçici ithali için verilecek gümrük beyannamesinin tescil tarihinde başlar. Gümrük yükümlülüğünde yükümlü beyan sahibidir. Dolaylı temsil durumunda hesabına gümrük beyanında bulunulan kişi de yükümlüdür.
+
+Madde 59: Kanuna Aykırı Giriş
+İthalat vergilerine tabi eşyanın bu Kanuna aykırı şekilde Türkiye Gümrük Bölgesine girmesi halinde gümrük yükümlülüğü doğar. Gümrük yükümlülüğü eşyanın Türkiye Gümrük Bölgesine kanuna aykırı olarak girişi tarihinde başlar.
+
+Madde 60: Gümrük Gözetiminden Çıkarma
+Gümrük gözetimi altındaki ithalat vergilerine tabi eşyanın kanuna aykırı olarak gümrük gözetimi dışına çıkarılması halinde gümrük yükümlülüğü doğar. Gümrük yükümlülüğü eşyanın gümrük gözetiminden çıkarıldığı tarihte başlar.
+
+Madde 61: Gümrük Vergilerinin Belirlenmesi
+Bir eşyaya uygulanacak ithalat veya ihracat vergileri tutarı, bu eşyaya ilişkin gümrük yükümlülüğünün başladığı tarihteki vergi oranları ve diğer vergilendirme unsurlarına göre belirlenir.
+
+Madde 62: Gümrük Vergilerinin Tahakkuku
+Gümrük idaresi tarafından gerekli bilgiler kullanılarak tahakkuk ettirilen gümrük vergileri Gümrük Vergileri Tahakkukunu İzleme Defterine veya bilgisayara kaydedilir. Gerekli teminatın sağlanması şartıyla belirli aralıklarla ve aynı kişiye teslim edilen aynı cins eşyanın gümrük vergileri otuz günü geçmeyecek şekilde belirlenecek bir süre içinde tahakkuk ettirilerek kaydedilebilir.
+
+Madde 63: Gümrük Vergilerinin Tebliği
+Gümrük vergileri tahakkukundan hemen sonra yükümlüye tebliğ edilir. Yapılan denetlemeler sonucunda hiç alınmadığı veya noksan alındığı belirlenen gümrük vergilerine ilişkin tebliğat gümrük yükümlülüğünün doğduğu tarihten itibaren üç yıl içinde yapılır.
+
+Madde 64: Gümrük Vergilerinin Ödenmesi
+Yapılan kontrol ve denetlemeler sonucunda hiç alınmadığı veya noksan alındığı belirlenen gümrük vergileri yükümlüye tebliğ edildiği tarihten itibaren onbeş gün içinde ödenmesi zorunludur. Ödeme süresinin bitmesinden önce ilgilinin yazılı istemde bulunması ve teminat alınması şartıyla ödeme süresi otuz gün daha uzatılabilir.
+
+Madde 65: Ödeme Şekli
+Gümrük vergileri Türk Lirası olarak ödenir. Bu ödeme Amme Alacaklarının Tahsil Usulü Hakkında Kanunda öngörülen usullere göre yapılır. Gümrük vergileri yetki verilen bankalar aracılığıyla da tahsil edilebilir.
+
+
+BÖLÜM 10: GÜMRÜK KANUNUNDA CEZALAR
+
+Madde 66: Vergi Kaybına Neden Olan İşlemlere Cezalar
+Serbest dolaşıma giriş rejimi veya kısmi muafiyet suretiyle geçici ithalat rejimine tabi tutulan eşyaya ilişkin olarak yapılan beyan ile muayene ve denetleme veya teslimden sonra kontrol sonucunda Gümrük Tarifesini oluşturan unsurlarda veya vergilendirmeye esas olan ölçülerde aykırılık görüldüğü ve fark yüzde 5'i aştığı takdirde ithalat vergilerinden ayrı olarak bu farkın üç katı para cezası alınır.
+
+Madde 67: Kıymet Beyanında Noksanlık
+Kıymeti üzerinden ithalat vergilerine tabi eşyanın beyan edilen kıymeti belirlenen kıymete göre noksan bulunduğu takdirde bu noksanlığa ait ithalat vergilerinden başka vergi farkının üç katı para cezası alınır. Satış birimine göre miktar itibarıyla yüzde 5'i geçmeyen bir fark ile maddi hesap hatasından doğan noksan kıymet beyanlarında bu farklara ait ithalat vergilerinden başka vergi farkının yarısı tutarında para cezası alınır.
+
+Madde 68: Yasak ve Kısıtlamalara Aykırılık
+Serbest dolaşıma giriş rejimine tabi tutulan eşyaya ilişkin olarak eşyanın genel düzenleyici idari işlemlerle ithalinin yasaklanmış olduğunun tespiti halinde varsa eşyanın fark gümrük vergilerinin alınmasının yanı sıra gümrüklenmiş değerinin dört katı idari para cezası verilir.
+
+Madde 69: Lisans İzin Belgesi Olmadan İthalat
+Eşyanın ithali belli kuruluşların vereceği ve gümrük idaresine ibrazı veya beyanı zorunlu olan lisans izin uygunluk belgesi veya bu belgeler yerine geçen bilgiye bağlı olmasına rağmen eşya belge veya bilgiye tabi değilmiş ya da belge veya bilgi alınmış gibi beyanda bulunulduğunun tespit edilmesi halinde varsa eşyanın fark gümrük vergilerinin alınmasının yanı sıra gümrüklenmiş değerinin iki katı idari para cezası verilir.
+
+Madde 70: Usulsüzlük Cezaları
+Bu Kanunda ayrı bir ceza tayin edilmiş haller saklı kalmak üzere bu Kanuna ve bu Kanunda tanınan yetkilere dayanılarak çıkarılan ikincil düzenlemelerle getirilen hükümlere aykırı hareket edenlere söz konusu düzenlemelerde açıkça öngörülmüş olması kaydıyla altmış TL usulsüzlük cezası uygulanır.
+
+
+BÖLÜM 11: KATMA DEĞER VERGİSİ KANUNU İLGİLİ 
+
+Madde 71: İhracat İstisnası
+İhracat teslimleri ve bu teslimlere ilişkin hizmetler, yurt dışındaki müşteriler için yapılan hizmetler, serbest bölgelerdeki müşteriler için yapılan fason hizmetler vergiden müstesnadır. Türkiye'de ikamet etmeyen yolcuların satın alarak Türkiye dışına götürdükleri malların teslimi anında Katma Değer Vergisi tahsil edilir ancak gümrükten malın çıkışı anında fatura veya belgenin ibrazında tahsil edilen Katma Değer Vergisi iade olunur.
+
+Madde 72: İhracat Teslimi Şartları
+Bir teslimin ihracat teslimi sayılabilmesi için şu şartlar yerine getirilmiş olmalıdır: Teslim yurt dışındaki bir müşteriye veya bir serbest bölgedeki alıcıya yapılmalıdır. Teslim konusu mal Türkiye Cumhuriyeti gümrük bölgesinden çıkarak bir dış ülkeye veya bir serbest bölgeye vasıl olmalıdır.
+
+Madde 73: Yurt Dışındaki Müşteri Tanımı
+Yurt dışındaki müşteri tabiri ikametgahı işyeri kanuni ve iş merkezi yurt dışında olan alıcılar ile yurt içinde bulunan bir firmanın yurt dışında kendi adına müstakilen faaliyet gösteren şubelerini ifade eder.
+
+Madde 74: İthalat İstisnası
+Aşağıdaki teslim ve hizmetler vergiden müstesnadır: Bu Kanuna göre teslimleri vergiden istisna edilen mal ve hizmetlerin ithali, Gümrük Kanununun geçici ithalat ve hariçte işleme rejimleri ile geri gelen eşyaya ilişkin hükümleri kapsamında gümrük vergisinden muaf veya müstesna olan eşyanın ithali, Gümrük Kanunundaki transit ve gümrük antrepo rejimleri ile geçici depolama ve serbest bölge hükümlerinin uygulandığı mallar.
+
+Madde 75: Gümrük Makbuzu
+İthal sırasında alınan Katma Değer Vergisi gümrük makbuzunda ayrıca gösterilir.
+
+Madde 76: Düzeltme İşlemleri
+Bu Kanuna göre vergisi ödenmeden veya eksik ödenerek yurda sokulan eşyaların hiç alınmamış veya eksik alınmış Katma Değer Vergileri hakkında Gümrük Kanunundaki esaslara göre işlem yapılır. Ancak indirim hakkı tanınan işlemlere konu eşyanın serbest dolaşıma girdiği tarihin içinde bulunduğu veya sonraki vergilendirme dönemlerine ilişkin olarak vergi dairesine verilen beyannamelere göre ödenen katma değer vergisi ithalde hiç ödenmemesi veya eksik ödenmesi nedeniyle tahsili gereken katma değer vergisinden düşülür.
+
+Madde 77: Teminatlı İşlemler
+Gümrük Kanunu ile diğer kanunlar gereğince gümrük vergisi teminata bağlanarak işlem gören her türlü madde ve kıymetlere ait Katma Değer Vergisi de aynı usule tabi tutulur. İhraç edilecek ürünlerin imalinde kullanılacak maddelerin ithalinde ödenmesi gereken katma değer vergisini teminata bağlatmak suretiyle işlem yaptırmaya teminatın türü şekli ve miktarı ile uygulamaya ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir.
+
+Madde 78: Gümrükte Tarhedilen Verginin Tebliği
+Gümrükte tarhedilen Katma Değer Vergisi tarh sırasında hazır bulunan mükellefe kanuni temsilcisine adına hareket eden komisyoncusu ile gümrük veya geçiş işlemine muhatap olanlara tebliğ edilir. Bu tebliğ üzerine açılacak davalar için Gümrük Vergisinin tabi olduğu usul ve esaslar uygulanır.
+
+Madde 79: Matrah Farklarına Ceza Uygulaması
+Mükelleflerin ithalde beyan ettikleri matrahla tahakkuk veya inceleme yapanların veyahut teftişe yetkili kılınanların buldukları matrahlar üzerinden hesaplanan vergi farkları hakkında Gümrük Kanunu uyarınca Gümrük Vergisindeki esaslar dairesinde ceza uygulanır.
+
+Madde 80: Maktu Vergi
+Gümrük Vergisinin maktuen alındığı hallerde tek ve maktu tarife ithalde alınacak Katma Değer Vergisi de dahil edilmek suretiyle tespit olunur.
